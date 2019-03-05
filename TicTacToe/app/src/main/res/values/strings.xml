@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="new_button">NEW GAME</string>
+    <string name="start_button">START</string>
+    <string name="level_button">CHANGE LEVEL</string>
+    <string name="close_button">CLOSE</string>
+    <string name="conf_one">One player</string>
+    <string name="conf_two">Two players</string>
+    <string name="player1">Player 1 (X)</string>
+    <string name="payer2">Player 2 (O)</string>
+    <string name="first">Robot first</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="josephbot">Josephbot</string>
+    <string name="charlesbot">Charlesbot</string>
+    <string name="jeanbot">Jeanbot</string>
+    <string name="erroremptyname">The name of players is required</string>
+    <string name="errorsamename">Choose another name</string>
+</resources>
